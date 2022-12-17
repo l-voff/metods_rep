@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2022-12-17T09:13:07.573Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="PIfQ7Z49ftqcotD0KwF_" version="20.7.4" type="github">
+<mxfile host="app.diagrams.net" modified="2022-12-17T09:50:01.468Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36" etag="avP-_2s-8glMobrC1tI1" version="20.7.4" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="989" dy="527" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -73,6 +73,9 @@
         <mxCell id="vfP_KP8TfnBtR3miXO91-44" value="Вывод результата анализа&lt;br&gt;(Оценок)" style="whiteSpace=wrap;html=1;verticalAlign=top;" vertex="1" parent="vfP_KP8TfnBtR3miXO91-11">
           <mxGeometry x="50" y="55" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="vfP_KP8TfnBtR3miXO91-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=blockThin;endFill=1;" edge="1" parent="vfP_KP8TfnBtR3miXO91-11" source="vfP_KP8TfnBtR3miXO91-41" target="vfP_KP8TfnBtR3miXO91-41">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="vfP_KP8TfnBtR3miXO91-12" value="ВКонтакте" style="swimlane;startSize=20;horizontal=0;html=1;" vertex="1" parent="vfP_KP8TfnBtR3miXO91-9">
           <mxGeometry x="20" y="240" width="705" height="120" as="geometry" />
         </mxCell>
@@ -118,6 +121,9 @@
               <mxPoint x="247" y="80" />
             </Array>
           </mxGeometry>
+        </mxCell>
+        <mxCell id="vfP_KP8TfnBtR3miXO91-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;" edge="1" parent="vfP_KP8TfnBtR3miXO91-9" source="vfP_KP8TfnBtR3miXO91-37" target="vfP_KP8TfnBtR3miXO91-41">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="vfP_KP8TfnBtR3miXO91-47" value="Данные статистики" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="445" y="285" width="130" height="30" as="geometry" />
