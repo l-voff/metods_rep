@@ -1,9 +1,49 @@
-<mxfile host="app.diagrams.net" modified="2023-04-20T23:46:12.916Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" version="21.1.8" etag="KC3S4-n-mVL247SIFD0G" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-20T23:52:01.244Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" etag="d4NcAkpyLlSpAfAwJuqy" version="21.1.8" type="github">
   <diagram name="Страница 1" id="57RnV5b-4EOdD9yZSP9b">
-    <mxGraphModel>
+    <mxGraphModel dx="1050" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="lloAMz_PS20BLNJYM8lG-1" value="&lt;b&gt;Пользователь&lt;/b&gt;" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="30" y="100" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lloAMz_PS20BLNJYM8lG-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.032;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="lloAMz_PS20BLNJYM8lG-2" target="lloAMz_PS20BLNJYM8lG-3">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lloAMz_PS20BLNJYM8lG-2" value="&lt;b&gt;Сайт&lt;br&gt;Браузер&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="140" y="100" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lloAMz_PS20BLNJYM8lG-3" value="" style="shape=cube;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;darkOpacity=0.05;darkOpacity2=0.1;" vertex="1" parent="1">
+          <mxGeometry x="360" y="65" width="310" height="130" as="geometry" />
+        </mxCell>
+        <mxCell id="lloAMz_PS20BLNJYM8lG-4" value="" style="endArrow=none;html=1;rounded=0;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="lloAMz_PS20BLNJYM8lG-1" target="lloAMz_PS20BLNJYM8lG-2">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="200" as="sourcePoint" />
+            <mxPoint x="350" y="150" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lloAMz_PS20BLNJYM8lG-6" value="&lt;b&gt;Windows OS&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="390" y="90" width="80" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="lloAMz_PS20BLNJYM8lG-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=52.5;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="lloAMz_PS20BLNJYM8lG-7" target="lloAMz_PS20BLNJYM8lG-8">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="570" y="160" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="lloAMz_PS20BLNJYM8lG-7" value="&lt;b&gt;MySQL&lt;br&gt;Python Flask&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="390" y="130" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lloAMz_PS20BLNJYM8lG-8" value="&lt;b&gt;&amp;lt;&amp;lt;БД&amp;gt;&amp;gt;&lt;br&gt;MySQL&lt;/b&gt;" style="shape=cylinder3;whiteSpace=wrap;html=1;boundedLbl=1;backgroundOutline=1;size=15;" vertex="1" parent="1">
+          <mxGeometry x="570" y="110" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="lloAMz_PS20BLNJYM8lG-9" value="&lt;b&gt;Сервер&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="520" y="90" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="lloAMz_PS20BLNJYM8lG-11" value="&lt;b&gt;HTTP&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="280" y="95" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
