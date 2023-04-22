@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-04-22T05:32:11.568Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" etag="2rpgRbF85djT9822ROmZ" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-04-22T06:42:46.034Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" etag="OCoKebHwvsjppxWJ1mn2" version="21.2.1" type="github">
   <diagram id="VrcHo0is1Yf8Ic5ensMK" name="Страница 1">
     <mxGraphModel dx="1050" dy="581" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -12,7 +12,7 @@
             <mxPoint x="314" y="90" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BZTm6CcyMh4_-YShRo9q-2" value="Анализ" style="rounded=0;whiteSpace=wrap;html=1;" parent="WDCF_A7ImxJQsFsin7ZQ-2" vertex="1">
+        <mxCell id="BZTm6CcyMh4_-YShRo9q-2" value="&lt;b&gt;Анализ&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="WDCF_A7ImxJQsFsin7ZQ-2" vertex="1">
           <mxGeometry x="40" y="60" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="MPOGEBniQ1Ng5ijaw1R4-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;startArrow=block;startFill=0;endArrow=none;endFill=0;exitX=1.025;exitY=0.288;exitDx=0;exitDy=0;exitPerimeter=0;" parent="WDCF_A7ImxJQsFsin7ZQ-2" source="GDOYtGYpomhIgO3A-tvG-4" target="MPOGEBniQ1Ng5ijaw1R4-4" edge="1">
