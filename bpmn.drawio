@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-06-08T22:26:48.660Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="Or8JR2YUNQ1I8Br8_KaC" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-08T22:27:33.575Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="apMk6vCbspwMTRr9e9iQ" version="24.5.2" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="1042" dy="577" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -19,10 +19,10 @@
         <mxCell id="vfP_KP8TfnBtR3miXO91-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="vfP_KP8TfnBtR3miXO91-10" source="vfP_KP8TfnBtR3miXO91-15" target="vfP_KP8TfnBtR3miXO91-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vfP_KP8TfnBtR3miXO91-15" value="Открыть сайт&lt;br&gt;sfera.surgu.ru" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" parent="vfP_KP8TfnBtR3miXO91-10" vertex="1">
+        <mxCell id="vfP_KP8TfnBtR3miXO91-15" value="Открыть сайт" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" parent="vfP_KP8TfnBtR3miXO91-10" vertex="1">
           <mxGeometry x="70" y="20" width="120" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="vfP_KP8TfnBtR3miXO91-17" value="Выбрать публикацию или период" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" parent="vfP_KP8TfnBtR3miXO91-10" vertex="1">
+        <mxCell id="vfP_KP8TfnBtR3miXO91-17" value="Выбрать период времени" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" parent="vfP_KP8TfnBtR3miXO91-10" vertex="1">
           <mxGeometry x="280" y="15" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="vfP_KP8TfnBtR3miXO91-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="vfP_KP8TfnBtR3miXO91-10" source="vfP_KP8TfnBtR3miXO91-21" target="vfP_KP8TfnBtR3miXO91-17" edge="1">
