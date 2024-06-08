@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-04-22T07:02:28.192Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/112.0.0.0 Safari/537.36 Edg/112.0.1722.48" etag="plklBQ4kKUVLraCaaV-b" version="21.2.1" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-08T22:26:48.660Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="Or8JR2YUNQ1I8Br8_KaC" version="24.5.2" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
-    <mxGraphModel dx="1050" dy="581" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1042" dy="577" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -95,7 +95,7 @@
         <mxCell id="vfP_KP8TfnBtR3miXO91-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=blockThin;endFill=1;" parent="vfP_KP8TfnBtR3miXO91-9" source="vfP_KP8TfnBtR3miXO91-37" target="vfP_KP8TfnBtR3miXO91-41" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vfP_KP8TfnBtR3miXO91-12" value="ВКонтакте" style="swimlane;startSize=20;horizontal=0;html=1;" parent="vfP_KP8TfnBtR3miXO91-9" vertex="1">
+        <mxCell id="vfP_KP8TfnBtR3miXO91-12" value="Соц. сеть" style="swimlane;startSize=20;horizontal=0;html=1;" parent="vfP_KP8TfnBtR3miXO91-9" vertex="1">
           <mxGeometry x="20" y="240" width="705" height="120" as="geometry" />
         </mxCell>
         <mxCell id="vfP_KP8TfnBtR3miXO91-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="vfP_KP8TfnBtR3miXO91-12" source="vfP_KP8TfnBtR3miXO91-19" target="vfP_KP8TfnBtR3miXO91-32" edge="1">
@@ -113,13 +113,13 @@
         <mxCell id="vfP_KP8TfnBtR3miXO91-37" value="Нахождение публикаций" style="whiteSpace=wrap;html=1;verticalAlign=top;labelBackgroundColor=#ffffff;" parent="vfP_KP8TfnBtR3miXO91-12" vertex="1">
           <mxGeometry x="420" y="20" width="85" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="zrmv3pzmHmZrW_NOhiFh-1" value="&lt;b&gt;Найдены?&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vfP_KP8TfnBtR3miXO91-12">
+        <mxCell id="zrmv3pzmHmZrW_NOhiFh-1" value="&lt;b&gt;Найдены?&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="vfP_KP8TfnBtR3miXO91-12" vertex="1">
           <mxGeometry x="523" y="49" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zrmv3pzmHmZrW_NOhiFh-2" value="&lt;b&gt;ДА&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vfP_KP8TfnBtR3miXO91-12">
+        <mxCell id="zrmv3pzmHmZrW_NOhiFh-2" value="&lt;b&gt;ДА&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="vfP_KP8TfnBtR3miXO91-12" vertex="1">
           <mxGeometry x="500" y="10" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="zrmv3pzmHmZrW_NOhiFh-4" value="&lt;b&gt;НЕТ&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="vfP_KP8TfnBtR3miXO91-12">
+        <mxCell id="zrmv3pzmHmZrW_NOhiFh-4" value="&lt;b&gt;НЕТ&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="vfP_KP8TfnBtR3miXO91-12" vertex="1">
           <mxGeometry x="540" y="-6" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="vfP_KP8TfnBtR3miXO91-47" value="Данные" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
