@@ -1,10 +1,10 @@
-<mxfile host="app.diagrams.net" modified="2024-06-08T22:27:33.575Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="apMk6vCbspwMTRr9e9iQ" version="24.5.2" type="github">
+<mxfile host="app.diagrams.net" modified="2024-06-15T22:08:38.079Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/125.0.0.0 Safari/537.36 Edg/125.0.0.0" etag="dnJ2N8URngxGT83F854G" version="24.5.2" type="github">
   <diagram name="Page-1" id="2a216829-ef6e-dabb-86c1-c78162f3ba2b">
     <mxGraphModel dx="1042" dy="577" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="vfP_KP8TfnBtR3miXO91-9" value="Оценка публикации" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;html=1;" parent="1" vertex="1">
+        <mxCell id="vfP_KP8TfnBtR3miXO91-9" value="Обработка данных медиа-контента" style="swimlane;childLayout=stackLayout;resizeParent=1;resizeParentMax=0;horizontal=0;startSize=20;horizontalStack=0;html=1;" parent="1" vertex="1">
           <mxGeometry x="50" y="140" width="725" height="360" as="geometry" />
         </mxCell>
         <mxCell id="vfP_KP8TfnBtR3miXO91-10" value="Пользователь" style="swimlane;startSize=20;horizontal=0;html=1;" parent="vfP_KP8TfnBtR3miXO91-9" vertex="1">
@@ -55,10 +55,10 @@
         <mxCell id="vfP_KP8TfnBtR3miXO91-45" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" parent="vfP_KP8TfnBtR3miXO91-11" source="vfP_KP8TfnBtR3miXO91-41" target="vfP_KP8TfnBtR3miXO91-44" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="vfP_KP8TfnBtR3miXO91-41" value="&lt;br&gt;Анализ данных" style="whiteSpace=wrap;html=1;verticalAlign=top;" parent="vfP_KP8TfnBtR3miXO91-11" vertex="1">
+        <mxCell id="vfP_KP8TfnBtR3miXO91-41" value="&lt;br&gt;Обработка данных" style="whiteSpace=wrap;html=1;verticalAlign=top;" parent="vfP_KP8TfnBtR3miXO91-11" vertex="1">
           <mxGeometry x="250" y="55" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="vfP_KP8TfnBtR3miXO91-44" value="&lt;br&gt;Вывод результата анализа" style="whiteSpace=wrap;html=1;verticalAlign=top;" parent="vfP_KP8TfnBtR3miXO91-11" vertex="1">
+        <mxCell id="vfP_KP8TfnBtR3miXO91-44" value="&lt;br&gt;Вывод результатов" style="whiteSpace=wrap;html=1;verticalAlign=top;" parent="vfP_KP8TfnBtR3miXO91-11" vertex="1">
           <mxGeometry x="50" y="55" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="vfP_KP8TfnBtR3miXO91-49" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;dashed=1;endArrow=blockThin;endFill=1;" parent="vfP_KP8TfnBtR3miXO91-11" source="vfP_KP8TfnBtR3miXO91-41" target="vfP_KP8TfnBtR3miXO91-41" edge="1">
